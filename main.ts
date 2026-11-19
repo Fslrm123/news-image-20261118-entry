@@ -1,4 +1,4 @@
-// THE WORLD — Wednesday 18 November 2026.
+// THE WORLD — Wednesday, 18 November 2026.
 // Copies the committed front-page image to /output/entry.png.
 // Deterministic: the output is a byte-for-byte copy of entry.png.
 import { copyFileSync, mkdirSync } from "node:fs";
