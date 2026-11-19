@@ -1,8 +1,8 @@
 # THE WORLD — Wednesday 18 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261118-blue)](https://make.fun/bounty/news-image-20261118)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Entry](https://img.shields.io/badge/entry-2026--11--18-green)](https://github.com/Fslrm123/news-image-20261118-entry)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Fslrm123/news-image-20261118-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Fslrm123/news-image-20261118-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A one-page newspaper front page that sums up Wednesday 18 November 2026 in a
 single image. The masthead names the day prominently, and every story on the
